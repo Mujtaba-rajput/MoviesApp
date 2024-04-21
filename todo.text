@@ -1,0 +1,4 @@
+I could have make a separate Api client, if this api database https://search.imdbot.workers.dev would work,
+but it was not working, so I did'nt make a separate api client, so that i can use that in a react application too.
+but I know how do to do it.I did some use some other api to complete my assessment. Because https://search.imdbot.workers.dev
+this was not working, it had some limited hits, and after sometime it stopped working.
